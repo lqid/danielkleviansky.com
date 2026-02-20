@@ -1,0 +1,133 @@
+{{- define "main" }}
+
+{{- $projects := slice
+
+  (dict
+    "title"       "Voice Biometric Service"
+    "category"    "Enterprise Software"
+    "description" "Orchestration service integrating Microsoft / Nuance Gatekeeper with ATO backend services, delivering real-time voice authentication at enterprise scale."
+    "metric"      "100,000+ daily auth requests · 60% faster authentication"
+    "tags"        (slice "C#" ".NET" "Nuance Gatekeeper" "REST APIs" "Fed. Gov")
+  )
+
+  (dict
+    "title"       "AI Agent Assist"
+    "category"    "Enterprise Software"
+    "description" "Event-driven orchestration layer enabling Google Agent Assist to deliver AI-powered real-time guidance to contact centre agents across the ATO enterprise."
+    "metric"      "8,000+ agents · Enterprise-wide deployment"
+    "tags"        (slice "C#" ".NET" "React" "GCP Dialogflow" "CCAI" "Azure DevOps" "Fed. Gov")
+  )
+
+  (dict
+    "title"       "Cisco UC Platform"
+    "category"    "Enterprise Infrastructure"
+    "description" "Lead engineer for the nationwide rollout of Cisco Unified Communications to the ATO, migrating from a legacy Nortel environment and deploying a full UC stack across the enterprise."
+    "metric"      "Nationwide deployment · 8,000+ agents · Nortel migration"
+    "tags"        (slice "Cisco CUCM" "Cisco UCCX" "Unity Connection" "Jabber" "Fed. Gov")
+  )
+
+  (dict
+    "title"       "Genesys Webchat & Cobrowse"
+    "category"    "Enterprise Software"
+    "description" "End-to-end development of Genesys Webchat and Cobrowse for the ATO contact centre, enabling digital channel support and real-time agent-assisted web browsing alongside existing voice operations."
+    "metric"      "Enterprise-wide deployment · 8,000+ agents"
+    "tags"        (slice "TypeScript" "Angular" "Genesys" "Webchat" "Cobrowse" "Fed. Gov")
+  )
+
+  (dict
+    "title"       "Call Routing Engine"
+    "category"    "Enterprise Software"
+    "description" "Bespoke data-driven routing engine handling nationwide call distribution for the ATO, designed for high availability and zero-downtime configuration changes."
+    "metric"      "50,000+ daily routing decisions · 99.9% uptime"
+    "tags"        (slice "C#" ".NET" "SQL" "Genesys" "Fed. Gov")
+  )
+
+  (dict
+    "title"       "Workforce Automation Framework"
+    "category"    "Enterprise Software"
+    "description" "Enterprise-wide service orchestrating employee onboarding and offboarding workflows across multiple integrated platforms at the ATO."
+    "metric"      "Processing time reduced from 4 hours to 15 minutes per employee"
+    "tags"        (slice "C#" "Python" "REST APIs" "Azure DevOps" "Fed. Gov")
+  )
+
+  (dict
+    "title"       "Workforce Management Suite"
+    "category"    "Enterprise Software"
+    "description" "Continuous backend management system automating the scheduling and roster operations for the full ATO workforce."
+    "metric"      "100,000+ personnel · 85% reduction in manual scheduling"
+    "tags"        (slice "Python" "REST APIs" "SQL" "Fed. Gov")
+  )
+
+  (dict
+    "title"       "Kubernetes Cluster"
+    "category"    "Infrastructure"
+    "description" "Greenfields deployment and ongoing operation of a nationwide on-premise OpenShift / Kubernetes cluster underpinning software development and deployment activities."
+    "metric"      "200+ nodes · 150+ microservices"
+    "tags"        (slice "Kubernetes" "OpenShift" "Docker" "Azure DevOps" "RHEL" "Fed. Gov")
+  )
+
+  (dict
+    "title"       "Apache Cassandra"
+    "category"    "Infrastructure"
+    "description" "Architecture, implementation, and continual operation of Apache Cassandra, including authoring the full architectural review and secure operational procedures manual."
+    "metric"      "3 multi-datacenter clusters · 20+ nodes · 50+ TB data"
+    "tags"        (slice "Apache Cassandra" "Java" "RHEL" "Multi-DC" "Fed. Gov")
+  )
+
+  (dict
+    "title"       "Angular Frontends"
+    "category"    "Enterprise Software"
+    "description" "TypeScript / Angular web applications supporting enterprise-wide CMS, CMDB, and real-time contact centre monitoring, delivering sub-second response times at scale."
+    "metric"      "500+ internal users · Sub-second response times"
+    "tags"        (slice "TypeScript" "Angular" "REST APIs" "Azure DevOps" "Fed. Gov")
+  )
+
+  (dict
+    "title"       "Hold Tight"
+    "category"    "Game Development"
+    "description" "Independent game title in active development on Unreal Engine 5, delivering polished game mechanics, procedurally generated environments, and original sound design."
+    "metric"      "Team of 4 · Unreal Engine 5 · In development"
+    "tags"        (slice "Unreal Engine 5" "C++" "C#" "Python" "Houdini" "Maya" "Wwise")
+  )
+
+-}}
+
+<article class="post-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">{{ .Description }}</div>
+    {{- end }}
+  </header>
+
+  {{- if .Content }}
+  <div class="post-content">
+    {{- partial "anchored_headings.html" .Content -}}
+  </div>
+  {{- end }}
+
+  <div class="projects-grid">
+    {{- range $projects }}
+    <div class="project-card">
+      <span class="project-category">{{ .category }}</span>
+      <h3 class="project-title">{{ .title }}</h3>
+      <p class="project-desc">{{ .description }}</p>
+      <p class="project-metric">{{ .metric }}</p>
+      <div class="project-tags">
+        {{- range .tags }}
+        <span class="project-tag">{{ . }}</span>
+        {{- end }}
+      </div>
+    </div>
+    {{- end }}
+  </div>
+
+  <footer class="post-footer">
+    {{- if (.Param "ShowPostNavLinks") }}
+    {{- partial "post_nav_links.html" . }}
+    {{- end }}
+  </footer>
+</article>
+
+{{- end }}

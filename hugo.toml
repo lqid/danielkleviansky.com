@@ -30,6 +30,10 @@ paginate = 10
     url = "/music/"
 
   [[params.profileMode.buttons]]
+    name = "Projects"
+    url = "/projects/"
+
+  [[params.profileMode.buttons]]
     name = "Résumé"
     url = "/resume/"
 
@@ -66,6 +70,10 @@ paginate = 10
     name = "Music"
     url = "/music/"
     weight = 15
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 17
   [[menu.main]]
     name = "Résumé"
     url = "/resume/"
