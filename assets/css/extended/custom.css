@@ -65,3 +65,44 @@
   background: var(--border);
   color: var(--secondary);
 }
+
+/* ── 404 page ──────────────────────────────────────────── */
+
+.not-found-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 50vh;
+  gap: 0.75rem;
+  text-align: center;
+}
+
+.not-found-code {
+  font-size: 7rem;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--primary);
+  opacity: 0.15;
+}
+
+.not-found-msg {
+  font-size: 1rem;
+  color: var(--secondary);
+  margin: 0;
+}
+
+.not-found-link {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--primary);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.4rem 1rem;
+  margin-top: 0.5rem;
+  transition: border-color 0.2s ease;
+}
+
+.not-found-link:hover {
+  border-color: var(--primary);
+}
