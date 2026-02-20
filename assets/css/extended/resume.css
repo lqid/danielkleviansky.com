@@ -1,0 +1,146 @@
+/* ── Resume Page ──────────────────────────────────────────── */
+
+.resume-title-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.resume-print-btn {
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  padding: 0.35rem 0.85rem;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--secondary);
+  cursor: pointer;
+  white-space: nowrap;
+  flex-shrink: 0;
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
+
+.resume-print-btn:hover {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.resume-body {
+  margin-top: 0.5rem;
+}
+
+/* Section headings (## Experience, ## Skills, etc.) */
+.resume-body h2 {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--secondary);
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.4rem;
+  margin-top: 2.75rem;
+  margin-bottom: 1.25rem;
+}
+
+.resume-body h2:first-child {
+  margin-top: 0;
+}
+
+/* Entry titles (### Job Title — Company) */
+.resume-body h3 {
+  font-size: 0.97rem;
+  font-weight: 700;
+  color: var(--primary);
+  margin-top: 1.5rem;
+  margin-bottom: 0.1rem;
+  line-height: 1.4;
+}
+
+/* Date / location metadata — first <p> immediately after <h3> */
+.resume-body h3 + p {
+  font-size: 0.78rem;
+  color: var(--secondary);
+  margin-top: 0;
+  margin-bottom: 0.65rem;
+}
+
+/* Organisation / company name — bold within the metadata line */
+.resume-body h3 + p strong {
+  color: var(--primary);
+  font-weight: 600;
+}
+
+/* All other paragraphs */
+.resume-body p {
+  font-size: 0.875rem;
+  line-height: 1.7;
+  color: var(--secondary);
+  margin-bottom: 0.5rem;
+}
+
+/* Cert group sub-headings — h3 directly followed by ul (no date/location p between) */
+.resume-body h3:has(+ ul) {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--primary);
+  margin-top: 1.25rem;
+  margin-bottom: 0.3rem;
+}
+
+/* Bullet lists */
+.resume-body ul {
+  margin: 0.25rem 0 0.6rem;
+  padding-left: 1.1rem;
+}
+
+.resume-body li {
+  font-size: 0.875rem;
+  line-height: 1.68;
+  color: var(--secondary);
+  margin-bottom: 0.3rem;
+}
+
+/* Technology / skill names within bullets */
+.resume-body li strong {
+  color: var(--primary);
+  font-weight: 600;
+}
+
+/* Hide <hr> separators — section h2 styling handles visual breaks */
+.resume-body hr {
+  display: none;
+}
+
+/* ── Print styles ──────────────────────────────────────────── */
+@media print {
+  .resume-print-btn,
+  .top-link,
+  nav,
+  footer.footer {
+    display: none !important;
+  }
+
+  .resume-body h2 {
+    color: #555;
+    border-color: #ccc;
+  }
+
+  .resume-body h3 {
+    color: #111;
+  }
+
+  .resume-body h3 + p {
+    color: #666;
+    opacity: 1;
+  }
+
+  .resume-body p,
+  .resume-body li {
+    color: #333;
+  }
+}

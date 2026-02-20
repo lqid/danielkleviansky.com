@@ -1,15 +1,17 @@
 ---
 title: "Résumé"
-layout: "single"
+layout: "resume"
 url: "/resume/"
-summary: "Daniel Kleviansky – Résumé"
+hideMeta: true
+ShowReadingTime: false
+ShowPostNavLinks: false
 ---
 
 ## Experience
 
-### Software Engineering Lead — Byte Information Technology
+### Software Engineering Lead
 
-Melbourne, AU · Dec. 2015 – Present
+**Byte Information Technology** · Melbourne, AU · Dec. 2015 – Present
 
 - Software engineering and DevOps lead, managing 3–5 engineers, responsible for enterprise-wide contact center integrations serving 8,000+ ATO contact centre agents processing 15+ million customer interactions annually.
 - Lead C# developer of voice biometric orchestration service, integrating Microsoft / Nuance Gatekeeper with internal backend services, reducing authentication time by 60% and serving 100,000+ daily authentication requests for the ATO.
@@ -25,9 +27,9 @@ Melbourne, AU · Dec. 2015 – Present
 
 ---
 
-### Director / Technical Lead — MNA Studios
+### Director / Technical Lead
 
-Melbourne, AU · Jul. 2021 – Present
+**MNA Studios** · Melbourne, AU · Jul. 2021 – Present
 
 - Lead Software Engineer, managing team of 4 Unreal C++, C#, and Python engineers, delivering game mechanics and systems for independent title "Hold Tight".
 - Lead Technical Artist, responsible for 3D asset integration into Unreal Engine 5.x, creating 200+ optimized game-ready assets in Houdini, Maya, Gaea, and Substance Designer/Painter.
@@ -37,9 +39,9 @@ Melbourne, AU · Jul. 2021 – Present
 
 ---
 
-### Systems and Network Engineer — Telstra Business Center Enterprise *(formerly Pepperstorm)*
+### Systems and Network Engineer
 
-Melbourne, AU · Mar. 2015 – Dec. 2015
+**Telstra Business Center Enterprise** *(formerly Pepperstorm)* · Melbourne, AU · Mar. 2015 – Dec. 2015
 
 - Cisco project lead engineer, responsible for routing, switching, unified communication, and security deployments, delivering 12 major projects valued at $2.5M+ total.
 - Served as an escalation point for 8 junior service desk analysts, reducing average ticket resolution time by 35% through mentoring and improved documentation standards.
@@ -49,9 +51,9 @@ Melbourne, AU · Mar. 2015 – Dec. 2015
 
 ---
 
-### Collaboration (Voice / Video) Engineer — Broadreach Services
+### Collaboration (Voice / Video) Engineer
 
-Melbourne, AU · Jun. 2014 – Mar. 2015
+**Broadreach Services** · Melbourne, AU · Jun. 2014 – Mar. 2015
 
 - Lead Cisco collaboration engineer for the company's Melbourne office, responsible for both ongoing support and project work, supporting 25+ enterprise clients.
 - Promoted to Second-in-Command of all internal infrastructure, ensuring 99.7% system availability and routine maintenance across the company's production environment.
@@ -61,9 +63,9 @@ Melbourne, AU · Jun. 2014 – Mar. 2015
 
 ---
 
-### Network Consulting Engineer Intern — Cisco Systems
+### Network Consulting Engineer Intern
 
-Sydney, AU · Jan. 2013 – Jul. 2013
+**Cisco Systems** · Sydney, AU · Jan. 2013 – Jul. 2013
 
 - Responsible for the continual operation and ongoing maintenance of Cisco data center with 150+ physical devices, earning extensive hands-on experience with Cisco Catalyst, Nexus, UCS, ASR, and CSR, in addition to an integrated VMware environment and RHEL/CentOS servers.
 - Deployed and troubleshot full recreations of enterprise customer environments by supporting a global team of over 400 senior network engineers, completing 80+ customer builds through hands-on deployment of bleeding-edge Cisco hardware and software.
@@ -112,22 +114,22 @@ Unreal Engine / Maya / Houdini
 
 ## Education
 
-### Bachelor of Information Technology & Systems — Monash University
+### Bachelor of Information Technology & Systems
 
-Melbourne, AU · Jul. 2012 – Dec. 2014
+**Monash University** · Melbourne, AU · Jul. 2012 – Dec. 2014
 
 - Graduated with High Distinction average, and WAM of 89%.
 - Received advanced placement and scholarship offer for Honours program.
 
-### Bachelor of Networking — Melbourne Institute of Technology
+### Bachelor of Networking
 
-Melbourne, AU · Jan. 2012 – Jul. 2012
+**Melbourne Institute of Technology** · Melbourne, AU · Jan. 2012 – Jul. 2012
 
 - Upon emigrating to Australia, transferred credits to MIT, where I completed a trimester, achieving High Distinctions for all subjects.
 
-### Bachelor of Engineering (Electrical & Electronic with Computer Science) — Stellenbosch University
+### Bachelor of Engineering (Electrical & Electronic with Computer Science)
 
-Cape Town, ZA · Jan. 2010 – Dec. 2011
+**Stellenbosch University** · Cape Town, ZA · Jan. 2010 – Dec. 2011
 
 - Completed 84 credits towards a B.Eng(Hons) degree, electing double majors in computer science and software engineering, before emigrating to Australia.
 
@@ -135,11 +137,11 @@ Cape Town, ZA · Jan. 2010 – Dec. 2011
 
 ## Certifications
 
-**Architecture**
+### Architecture
 
 - 2016 — Apache Cassandra Certified Architect
 
-**Data Networking**
+### Data Networking
 
 - 2012 — Cisco Certified Networking Professional (CCNP) – Routing & Switching
 - 2015 — Cisco Certified Design Professional (CCDP)
@@ -149,16 +151,16 @@ Cape Town, ZA · Jan. 2010 – Dec. 2011
 
 ## Aviation Training
 
-### Commercial Pilot License (CPL) — Royal Victorian Aero Club
+### Commercial Pilot License (CPL)
 
-Melbourne, AU · Sep. 2025 – Present
+**Royal Victorian Aero Club** · Melbourne, AU · Sep. 2025 – Present
 
 - Currently completing Commercial Pilot Licence (CPL) training with 180+ total flight hours logged.
 - Self-studying advanced aerodynamics, air law, navigation, human factors, and aircraft systems, preparing for 7 CASA CPL theory examinations.
 
-### Private Pilot License (PPL) — Royal Victorian Aero Club
+### Private Pilot License (PPL)
 
-Melbourne, AU · Jan. 2025 – Sep. 2025
+**Royal Victorian Aero Club** · Melbourne, AU · Jan. 2025 – Sep. 2025
 
 - Achieved Private Pilot Licence (PPL) with 60+ flight hours including 15+ hours solo flight time.
 - Developed practical airmanship through solo and dual flights in Sling 2 and Piper Warrior II, completing 50+ successful take-offs and landings.
@@ -169,21 +171,21 @@ Melbourne, AU · Jan. 2025 – Sep. 2025
 
 ## Writing
 
-### Minor Thesis — Separation of Control Plane and Data Plane in Performance Networks
+### Separation of Control Plane and Data Plane in Performance Networks
 
-Melbourne, AU · Jan. 2012 – Dec. 2014
+**Minor Thesis** · Monash University · Jan. 2012 – Dec. 2014
 
 - Research into software-defined networking, and its role in ubiquitous computing.
 
-### Technical Blog — danielkleviansky.com
+### Technical Blog
 
-Founder & Writer · Jan. 2015 – Present
+**danielkleviansky.com** · Founder & Writer · Jan. 2015 – Present
 
 - Write regular technology guides about corner case situations when designing or deploying unusual solutions.
 
 ### Music Production & Composition
 
-Independent Artist · Jan. 2020 – Present
+**Independent Artist** · Melbourne, AU · Jan. 2020 – Present
 
 Melbourne-based composer and producer of orchestral, neoclassical, and cinematic music, blending electronica, ambient, and minimalistic styles with sweeping strings and delicate piano. Released independently across Spotify, Apple Music, and Deezer.
 
