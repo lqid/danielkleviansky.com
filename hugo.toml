@@ -3,6 +3,7 @@ languageCode = "en-au"
 title = "Daniel Kleviansky"
 theme = "PaperMod"
 paginate = 10
+enableRobotsTXT = true
 
 [params]
   author = "Daniel Kleviansky"
