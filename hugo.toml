@@ -6,6 +6,11 @@ paginate = 10
 
 [params]
   author = "Daniel Kleviansky"
+
+  [params.assets]
+    favicon         = "favicon.svg"
+    favicon16x16    = "favicon.svg"
+    favicon32x32    = "favicon.svg"
   description = "Part of the Human Network"
   defaultTheme = "auto"        # auto, light, or dark
   ShowReadingTime = true
