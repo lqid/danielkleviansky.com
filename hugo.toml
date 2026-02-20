@@ -27,10 +27,6 @@ paginate = 10
     subtitle = "Software Engineer · System Architect · Technical Lead"
 
   [[params.profileMode.buttons]]
-    name = "Posts"
-    url = "/posts/"
-
-  [[params.profileMode.buttons]]
     name = "Music"
     url = "/music/"
 
@@ -67,10 +63,6 @@ paginate = 10
     url = "https://facebook.com/DanielKlevianskyAU"
 
 [menu]
-  [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
-    weight = 10
   [[menu.main]]
     name = "Music"
     url = "/music/"
