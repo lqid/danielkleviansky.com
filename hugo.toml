@@ -1,0 +1,66 @@
+baseURL = "https://danielkleviansky.com/"
+languageCode = "en-au"
+title = "Daniel Kleviansky"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  author = "Daniel Kleviansky"
+  description = "Part of the Human Network"
+  defaultTheme = "auto"        # auto, light, or dark
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = true
+  ShowShareButtons = false
+  ShowRssButtonInSectionTermList = false
+  hideFooter = false
+
+  [params.homeInfoParams]
+    Title = "Daniel Kleviansky"
+    Content = """
+Welcome, one and all. I designed this online home to get away from the social media \
+hubbub that surrounds and envelops our lives daily. I wanted to share parts of myself \
+with the world, but in such a way that I wasn't distracted by societal expectations, \
+or the rigid (and changing) frameworks certain platforms provide. I want to create, \
+and reduce my consumption, and so, this place was born.
+
+I'm a software engineer by trade, working in the contact center industry and \
+specialising in enterprise projects. In my spare time I enjoy tinkering with \
+technologies outside my professional scope — particularly game development in \
+Unreal Engine. Hobbies include Muay Thai, photography, music, film, aviation, and yoga.
+"""
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/kleviansky/"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/lqid"
+
+  [[params.socialIcons]]
+    name = "youtube"
+    url = "https://www.youtube.com/user/danklev/"
+
+  [[params.socialIcons]]
+    name = "spotify"
+    url = "https://open.spotify.com/artist/33gK9iubv5jGA9Gg27wIkY"
+
+  [[params.socialIcons]]
+    name = "facebook"
+    url = "https://facebook.com/DanielKlevianskyAU"
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    name = "Résumé"
+    url = "/resume/"
+    weight = 20
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true   # allows raw HTML in Markdown if needed
