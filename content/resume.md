@@ -181,6 +181,17 @@ Founder & Writer · Jan. 2015 – Present
 
 - Write regular technology guides about corner case situations when designing or deploying unusual solutions.
 
+### Music Production & Composition
+
+Independent Artist · Jan. 2020 – Present
+
+Melbourne-based composer and producer of orchestral, neoclassical, and cinematic music, blending electronica, ambient, and minimalistic styles with sweeping strings and delicate piano. Released independently across Spotify, Apple Music, and Deezer.
+
+- Debut LP **At Once, Grace.** (Nov. 2020) — a narrative arc exploring themes of despair, acceptance, and triumph across a full-length orchestral record.
+- Singles and EPs: **Here. Now.**, **At Motion**, **Wavering Confidence**, **Wonder Wander** (2020); **Jacob**, **O Beauty, Where Art Thou?**, **Epoché** (2022).
+- **At Motion** selected for Spotify's editorial playlist, **Cinematic Composers Discoveries**.
+- **Epoché** described as "a meditation of light and love, a reminder that we are here but for a moment."
+
 ---
 
 ## Extracurricular Activity

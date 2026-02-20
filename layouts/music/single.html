@@ -1,0 +1,58 @@
+{{- define "main" }}
+
+{{- $releases := slice
+  (dict "title" "At Once, Grace." "year" "2020" "type" "Album"  "image" "at-once-grace.png"         "spotify" "https://open.spotify.com/album/49mGgC27dDng4UFQrDoBLO")
+  (dict "title" "Epoché"           "year" "2022" "type" "Single" "image" "epoche.png"                "spotify" "https://open.spotify.com/album/47vZzPCXvlvaEeyWDeeoVr")
+  (dict "title" "O Beauty, Where Art Thou?" "year" "2022" "type" "Single" "image" "o-beauty-where-art-thou.png" "spotify" "https://open.spotify.com/album/4RoAZZ0GQ1FcpgKG7CQiId")
+  (dict "title" "Jacob"            "year" "2022" "type" "Single" "image" "jacob.png"                 "spotify" "https://open.spotify.com/album/1ceSmETc30tAD92tppiAxI")
+  (dict "title" "Here. Now."       "year" "2020" "type" "Single" "image" "here-now.png"              "spotify" "https://open.spotify.com/album/0kgMRnJAstub96pZy9pu8i")
+  (dict "title" "Wavering Confidence" "year" "2020" "type" "Single" "image" "wavering-confidence.jpg" "spotify" "https://open.spotify.com/album/4I6kddYls8OOSLZbuVGBT2")
+  (dict "title" "At Motion"        "year" "2020" "type" "Single" "image" "at-motion.png"             "spotify" "https://open.spotify.com/album/3vrHOHVVBjpwogNjtdXr9k")
+-}}
+
+<article class="post-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">{{ .Description }}</div>
+    {{- end }}
+  </header>
+
+  {{- if .Content }}
+  <div class="post-content">
+    {{- partial "anchored_headings.html" .Content -}}
+  </div>
+  {{- end }}
+
+  <div class="music-grid">
+    {{- range $releases }}
+    {{- $img := $.Resources.GetMatch .image }}
+    <div class="release">
+      <a class="artwork-link" href="{{ .spotify }}" target="_blank" rel="noopener noreferrer">
+        {{- if $img }}
+        <img src="{{ $img.RelPermalink }}" alt="{{ .title }}" loading="lazy">
+        {{- else }}
+        <div class="artwork-placeholder"></div>
+        {{- end }}
+      </a>
+      <div class="release-info">
+        <p class="release-title">
+          {{- .title }}
+          {{- if eq .type "Album" }}<span class="release-badge">Album</span>{{- end }}
+        </p>
+        <p class="release-meta">{{ .year }}{{ if ne .type "Album" }} · {{ .type }}{{ end }}</p>
+        <a class="release-link" href="{{ .spotify }}" target="_blank" rel="noopener noreferrer">Listen on Spotify →</a>
+      </div>
+    </div>
+    {{- end }}
+  </div>
+
+  <footer class="post-footer">
+    {{- if (.Param "ShowPostNavLinks") }}
+    {{- partial "post_nav_links.html" . }}
+    {{- end }}
+  </footer>
+</article>
+
+{{- end }}
