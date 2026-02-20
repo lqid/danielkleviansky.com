@@ -21,9 +21,6 @@ paginate = 10
     favicon16x16    = "favicon.svg"
     favicon32x32    = "favicon.svg"
 
-  [params.label]
-    text = "/"
-
   [params.profileMode]
     enabled = true
     title = "Daniel Kleviansky"

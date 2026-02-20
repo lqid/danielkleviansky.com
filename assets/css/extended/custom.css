@@ -66,6 +66,18 @@
   color: var(--secondary);
 }
 
+/* ── Header label ─────────────────────────────────────────── */
+
+.label-root {
+  font-weight: 700;
+  color: var(--primary);
+}
+
+.label-path {
+  font-weight: 400;
+  color: var(--secondary);
+}
+
 /* ── 404 page ──────────────────────────────────────────── */
 
 .not-found-page {
