@@ -26,6 +26,10 @@ enableRobotsTXT = true
     enabled = true
     title = "Daniel Kleviansky"
     subtitle = "Software Engineer · System Architect · Technical Lead"
+    imageUrl = "/profile.jpg"
+    imageWidth = 120
+    imageHeight = 120
+    imageTitle = "Daniel Kleviansky"
 
   [[params.profileMode.buttons]]
     name = "Music"
