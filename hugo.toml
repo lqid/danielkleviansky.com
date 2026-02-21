@@ -37,6 +37,10 @@ enableRobotsTXT = true
     url = "/about/"
 
   [[params.profileMode.buttons]]
+    name = "Writing"
+    url = "/posts/"
+
+  [[params.profileMode.buttons]]
     name = "Music"
     url = "/music/"
 
@@ -77,6 +81,10 @@ enableRobotsTXT = true
     name = "About"
     url = "/about/"
     weight = 10
+  [[menu.main]]
+    name = "Writing"
+    url = "/posts/"
+    weight = 13
   [[menu.main]]
     name = "Music"
     url = "/music/"
