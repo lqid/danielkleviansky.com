@@ -32,6 +32,10 @@ enableRobotsTXT = true
     imageTitle = "Daniel Kleviansky"
 
   [[params.profileMode.buttons]]
+    name = "About"
+    url = "/about/"
+
+  [[params.profileMode.buttons]]
     name = "Music"
     url = "/music/"
 
@@ -68,6 +72,10 @@ enableRobotsTXT = true
     url = "https://facebook.com/DanielKlevianskyAU"
 
 [menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
   [[menu.main]]
     name = "Music"
     url = "/music/"
