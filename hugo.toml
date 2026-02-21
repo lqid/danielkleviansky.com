@@ -8,6 +8,7 @@ enableRobotsTXT = true
 [params]
   author = "Daniel Kleviansky"
   description = "Part of the Human Network"
+  images = ["/profile.jpg"]
   defaultTheme = "auto"        # auto, light, or dark
   ShowReadingTime = true
   ShowPostNavLinks = true
