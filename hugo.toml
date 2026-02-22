@@ -26,7 +26,7 @@ enableRobotsTXT = true
   [params.profileMode]
     enabled = true
     title = "Daniel Kleviansky"
-    subtitle = "Software Engineer · System Architect · Technical Lead"
+    subtitle = "Software engineering lead and systems architect. Aggressively multidisciplinary."
     imageUrl = "/profile.jpg"
     imageWidth = 120
     imageHeight = 120
