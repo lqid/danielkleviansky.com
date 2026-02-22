@@ -49,24 +49,8 @@ enableRobotsTXT = true
     url = "https://www.linkedin.com/in/kleviansky/"
 
   [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/lqid"
-
-  [[params.socialIcons]]
-    name = "youtube"
-    url = "https://www.youtube.com/user/danklev/"
-
-  [[params.socialIcons]]
     name = "spotify"
     url = "https://open.spotify.com/artist/33gK9iubv5jGA9Gg27wIkY"
-
-  [[params.socialIcons]]
-    name = "applemusic"
-    url = "https://music.apple.com/au/artist/daniel-kleviansky/1510186994"
-
-  [[params.socialIcons]]
-    name = "facebook"
-    url = "https://facebook.com/DanielKlevianskyAU"
 
 [menu]
   [[menu.main]]
