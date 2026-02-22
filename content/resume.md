@@ -198,12 +198,12 @@ Melbourne-based composer and producer of orchestral, neoclassical, and cinematic
 
 ## Extracurricular Activity
 
-### SkateIQ Melbourne Flow Team
+### Skateboarding
 
-Core Member · Melbourne, AU · Jul. 2025 – Present
+Melbourne, AU · Jul. 2025 – Present
 
-- Active member of Melbourne's premier skateboarding community, training 3+ times weekly in technical street skating and transition riding.
-- Developing balance, spatial awareness, and body control through progressive skill development, learning to assess risks and adapt to dynamic environments.
+- Active participant in Melbourne's local skateboarding scene, skating 3+ times weekly across street and transition.
+- Developing balance, spatial awareness, and body control through progressive skill development.
 
 ### Bouldering
 
