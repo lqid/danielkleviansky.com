@@ -177,11 +177,11 @@ Unreal Engine / Maya / Houdini
 
 - Research into software-defined networking, and its role in ubiquitous computing.
 
-### Technical Blog
+### Personal Site
 
 **danielkleviansky.com** · Founder & Writer · Jan. 2015 – Present
 
-- Write regular technology guides about corner case situations when designing or deploying unusual solutions.
+- Personal site covering technology, culture, and whatever else is worth saying.
 
 ### Music Production & Composition
 
