@@ -33,28 +33,12 @@ enableRobotsTXT = true
     imageTitle = "Daniel Kleviansky"
 
   [[params.profileMode.buttons]]
-    name = "About"
-    url = "/about/"
-
-  [[params.profileMode.buttons]]
     name = "Writing"
     url = "/writing/"
 
   [[params.profileMode.buttons]]
-    name = "Music"
-    url = "/music/"
-
-  [[params.profileMode.buttons]]
-    name = "Projects"
-    url = "/projects/"
-
-  [[params.profileMode.buttons]]
     name = "Now"
     url = "/now/"
-
-  [[params.profileMode.buttons]]
-    name = "Résumé"
-    url = "/resume/"
 
   [[params.socialIcons]]
     name = "email"
