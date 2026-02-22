@@ -10,9 +10,11 @@ hideMeta: true
 
 Studying aerodynamics for my Commercial Pilot Licence. It turns out flying a plane and understanding why the plane flies are two entirely separate skills. I'm working on the second one now.
 
-Writing more. You can follow along [here](/writing/).
+Writing more. You can follow along [on the writing page](/writing/).
 
 Got a Peloton. As a direct consequence, I'm doing yoga again. I'm choosing to interpret this as discipline rather than suffering.
+
+Obsessively researching Porsche 911s. Not buying one. Just researching.
 
 ---
 
