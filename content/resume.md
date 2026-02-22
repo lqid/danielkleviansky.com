@@ -107,7 +107,6 @@ Unreal Engine / Maya / Houdini
 - **Autodesk Maya**, demonstrated by role as 3D modeler in development of large-scale, in-game assets.
 - **Houdini**, demonstrated by procedural generation of large-scale landscape, and modular building and level design.
 - **Gaea**, demonstrated by procedural generation of large-scale terrains, landscapes and biomes.
-- Well-versed in continual improvement and development strategies, having worked in both waterfall and agile project methodologies, as both a technical resource and while holding technical leadership positions.
 - Over a decade of experience in various version control architectures, including but not limited to Git (LFS), Perforce, and TFVC.
 
 ---
@@ -139,13 +138,13 @@ Unreal Engine / Maya / Houdini
 
 ### Architecture
 
-- 2016 — Apache Cassandra Certified Architect
+- 2016, Apache Cassandra Certified Architect
 
 ### Data Networking
 
-- 2012 — Cisco Certified Networking Professional (CCNP) – Routing & Switching
-- 2015 — Cisco Certified Design Professional (CCDP)
-- 2015 — Cisco Certified Networking Associate (CCNA) – Collaboration
+- 2012, Cisco Certified Networking Professional (CCNP), Routing & Switching
+- 2015, Cisco Certified Design Professional (CCDP)
+- 2015, Cisco Certified Networking Associate (CCNA), Collaboration
 
 ---
 
@@ -158,7 +157,6 @@ Unreal Engine / Maya / Houdini
 - Achieved Private Pilot Licence (PPL) with 60+ flight hours including 15+ hours solo flight time.
 - Developed practical airmanship through solo and dual flights in Sling 2 and Piper Warrior II, completing 50+ successful take-offs and landings.
 - Applying disciplined checklists, cockpit resource management (CRM), and real-time decision-making under pressure.
-- Passionate about aviation and committed to lifelong development in air operations and leadership.
 
 ---
 
@@ -180,9 +178,7 @@ Unreal Engine / Maya / Houdini
 
 **Independent Artist** · Melbourne, AU · Jan. 2020 – Present
 
-Melbourne-based composer and producer of orchestral, neoclassical, and cinematic music, blending electronica, ambient, and minimalistic styles with sweeping strings and delicate piano. Released independently across Spotify, Apple Music, and Deezer.
-
-- Debut LP **At Once, Grace.** (Nov. 2020) — a narrative arc exploring themes of despair, acceptance, and triumph across a full-length orchestral record.
+- Debut LP **At Once, Grace.** (Nov. 2020), a narrative arc exploring themes of despair, acceptance, and triumph across a full-length orchestral record.
 - Singles and EPs: **Here. Now.**, **At Motion**, **Wavering Confidence**, **Wonder Wander** (2020); **Jacob**, **O Beauty, Where Art Thou?**, **Epoché** (2022).
 - **At Motion** selected for Spotify's editorial playlist, **Cinematic Composers Discoveries**.
 - **Epoché** described as "a meditation of light and love, a reminder that we are here but for a moment."
@@ -195,15 +191,13 @@ Melbourne-based composer and producer of orchestral, neoclassical, and cinematic
 
 Melbourne, AU · Jul. 2025 – Present
 
-- Active participant in Melbourne's local skateboarding scene, skating 3+ times weekly across street and transition.
-- Developing balance, spatial awareness, and body control through progressive skill development.
+- Active participant in Melbourne's local skateboarding scene.
 
 ### Bouldering
 
 Melbourne, AU · Jan. 2022 – Present
 
 - Active participant in Melbourne's local bouldering community, climbing V5–V6 grade problems.
-- Apply analytical thinking to route-finding, breaking complex climbing sequences into manageable movements.
 
 ### Cyber Security Challenge Australia
 
@@ -218,5 +212,4 @@ University Team Member · Melbourne, AU · Aug. 2013 – Dec. 2013
 Core Fight Team Member · Melbourne, AU · Oct. 2018 – Jan. 2021
 
 - Member of core fight team at Australia's most prestigious Muay Thai gym, training 5–6 days weekly under world champion instructors.
-- Developed discipline, mental toughness, and composure under pressure through intensive technical training and sparring sessions.
-- Cultivated respect for process-driven improvement and attention to detail through intensive technical training and competition.
+- Developed discipline and composure under pressure through intensive technical training and competition.
