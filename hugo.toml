@@ -54,7 +54,7 @@ enableRobotsTXT = true
 
   [[params.socialIcons]]
     name = "email"
-    url = "mailto:hi@danielkleviansky.com"
+    url = "mailto:daniel@kleviansky.com"
 
   [[params.socialIcons]]
     name = "linkedin"

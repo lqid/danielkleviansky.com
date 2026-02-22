@@ -12,4 +12,4 @@ On the side, I'm building *Hold Tight*, an indie game on Unreal Engine 5 with a 
 
 When I leave the house: bouldering, skateboarding, and flying small aircraft. I hold a private pilot licence, which is one of the more useful pieces of paper I own.
 
-Say hi at [hi@danielkleviansky.com](mailto:hi@danielkleviansky.com).
+Say hi at [daniel@kleviansky.com](mailto:daniel@kleviansky.com).
