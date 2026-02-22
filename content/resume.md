@@ -205,11 +205,11 @@ Core Member · Melbourne, AU · Jul. 2025 – Present
 - Active member of Melbourne's premier skateboarding community, training 3+ times weekly in technical street skating and transition riding.
 - Developing balance, spatial awareness, and body control through progressive skill development, learning to assess risks and adapt to dynamic environments.
 
-### Melbourne Bouldering Team
+### Bouldering
 
-Regular Member · Melbourne, AU · Jan. 2022 – Present
+Melbourne, AU · Jan. 2022 – Present
 
-- Regular participant in competitive bouldering, climbing V5–V6 grade problems, demonstrating systematic problem-solving and physical resilience.
+- Active participant in Melbourne's local bouldering community, climbing V5–V6 grade problems.
 - Apply analytical thinking to route-finding, breaking complex climbing sequences into manageable movements.
 
 ### Cyber Security Challenge Australia
