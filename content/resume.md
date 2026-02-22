@@ -139,13 +139,13 @@ Unreal Engine / Maya / Houdini
 
 ### Architecture
 
-- 2016:Apache Cassandra Certified Architect
+- 2016 — Apache Cassandra Certified Architect
 
 ### Data Networking
 
-- 2012:Cisco Certified Networking Professional (CCNP) – Routing & Switching
-- 2015:Cisco Certified Design Professional (CCDP)
-- 2015:Cisco Certified Networking Associate (CCNA) – Collaboration
+- 2012 — Cisco Certified Networking Professional (CCNP) – Routing & Switching
+- 2015 — Cisco Certified Design Professional (CCDP)
+- 2015 — Cisco Certified Networking Associate (CCNA) – Collaboration
 
 ---
 
@@ -182,7 +182,7 @@ Unreal Engine / Maya / Houdini
 
 Melbourne-based composer and producer of orchestral, neoclassical, and cinematic music, blending electronica, ambient, and minimalistic styles with sweeping strings and delicate piano. Released independently across Spotify, Apple Music, and Deezer.
 
-- Debut LP **At Once, Grace.** (Nov. 2020): a narrative arc exploring themes of despair, acceptance, and triumph across a full-length orchestral record.
+- Debut LP **At Once, Grace.** (Nov. 2020) — a narrative arc exploring themes of despair, acceptance, and triumph across a full-length orchestral record.
 - Singles and EPs: **Here. Now.**, **At Motion**, **Wavering Confidence**, **Wonder Wander** (2020); **Jacob**, **O Beauty, Where Art Thou?**, **Epoché** (2022).
 - **At Motion** selected for Spotify's editorial playlist, **Cinematic Composers Discoveries**.
 - **Epoché** described as "a meditation of light and love, a reminder that we are here but for a moment."
