@@ -174,7 +174,7 @@ Unreal Engine / Maya / Houdini
 
 **danielkleviansky.com** · Founder & Writer · Jan. 2015 – Present
 
-- Personal site covering technology, culture, and whatever else is worth saying.
+- You're on it.
 
 ### Music Production & Composition
 
