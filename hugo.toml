@@ -49,6 +49,10 @@ enableRobotsTXT = true
     url = "/projects/"
 
   [[params.profileMode.buttons]]
+    name = "Now"
+    url = "/now/"
+
+  [[params.profileMode.buttons]]
     name = "Résumé"
     url = "/resume/"
 
@@ -97,6 +101,10 @@ enableRobotsTXT = true
     name = "Projects"
     url = "/projects/"
     weight = 17
+  [[menu.main]]
+    name = "Now"
+    url = "/now/"
+    weight = 18
   [[menu.main]]
     name = "Résumé"
     url = "/resume/"
