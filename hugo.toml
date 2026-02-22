@@ -53,6 +53,10 @@ enableRobotsTXT = true
     url = "/resume/"
 
   [[params.socialIcons]]
+    name = "email"
+    url = "mailto:hi@danielkleviansky.com"
+
+  [[params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/kleviansky/"
 
