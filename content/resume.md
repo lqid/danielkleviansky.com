@@ -151,13 +151,6 @@ Unreal Engine / Maya / Houdini
 
 ## Aviation Training
 
-### Commercial Pilot License (CPL)
-
-**Royal Victorian Aero Club** · Melbourne, AU · Sep. 2025 – Present
-
-- Currently completing Commercial Pilot Licence (CPL) training with 180+ total flight hours logged.
-- Self-studying advanced aerodynamics, air law, navigation, human factors, and aircraft systems, preparing for 7 CASA CPL theory examinations.
-
 ### Private Pilot License (PPL)
 
 **Royal Victorian Aero Club** · Melbourne, AU · Jan. 2025 – Sep. 2025
