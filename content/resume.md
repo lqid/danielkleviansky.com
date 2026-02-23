@@ -13,7 +13,7 @@ ShowPostNavLinks: false
 
 **Byte Information Technology** · Melbourne, AU · Dec. 2015 – Present
 
-- Software engineering and DevOps lead, responsible for enterprise-wide contact center integrations serving 8,000+ ATO contact centre agents.
+- Software engineering and DevOps lead, responsible for enterprise-wide contact center integrations serving 18,000+ ATO contact centre agents.
 - Lead C# developer of voice biometric orchestration service, integrating Microsoft / Nuance Gatekeeper with internal backend services for the ATO.
 - Software architectural lead of Google Agent Assist integration, designing event-driven orchestration with a .NET backend and React frontend, enabling AI-powered real-time agent assistance across the enterprise contact center.
 - Lead C# developer of core routing engine, a bespoke design for data-driven nationwide call routing.
