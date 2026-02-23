@@ -13,17 +13,17 @@ ShowPostNavLinks: false
 
 **Byte Information Technology** · Melbourne, AU · Dec. 2015 – Present
 
-- Software engineering and DevOps lead, managing 3–5 engineers, responsible for enterprise-wide contact center integrations serving 8,000+ ATO contact centre agents processing 15+ million customer interactions annually.
-- Lead C# developer of voice biometric orchestration service, integrating Microsoft / Nuance Gatekeeper with internal backend services, reducing authentication time by 60% and serving 100,000+ daily authentication requests for the ATO.
+- Software engineering and DevOps lead, responsible for enterprise-wide contact center integrations serving 8,000+ ATO contact centre agents.
+- Lead C# developer of voice biometric orchestration service, integrating Microsoft / Nuance Gatekeeper with internal backend services for the ATO.
 - Software architectural lead of Google Agent Assist integration, designing event-driven orchestration with a .NET backend and React frontend, enabling AI-powered real-time agent assistance across the enterprise contact center.
-- Lead C# developer of core routing engine, a bespoke design for data-driven nationwide call routing, processing 50,000+ daily routing decisions with 99.9% uptime.
-- Lead C# developer of employee workforce automation framework, serving as an enterprise-wide service to orchestrate employee onboarding / offboarding, reducing manual processing time from 4 hours to 15 minutes per employee for the ATO.
-- Lead Java developer of backend and frontend systems, facilitating enterprise-wide custom integrations into workforce management, contact centre agent desktop, voice / video recording, and voice biometric software, supporting 15+ integrated platforms.
-- Lead Python developer of workforce management automation software suite, facilitating the continuous backend management of a total roster of 100,000+ personnel, automating 85% of previously manual scheduling operations.
-- Lead TypeScript developer of Angular frontends, supporting enterprise-wide CMS, CMDB, and real-time monitoring, serving 500+ internal users with sub-second response times.
-- Cloud architecture and engineering across Azure, AWS, and GCP, leveraging Azure DevOps for CI/CD pipelines, AWS EC2/S3/Lambda for scalable cloud-native deployments, and GCP Dialogflow/CCAI for AI-powered contact center solutions, supporting multi-cloud enterprise operations.
-- OpenShift / Kubernetes engineering and architecture lead, responsible for greenfields deployment and operation of nationwide on-premise cluster with 200+ nodes, supporting the Federal Government's ongoing software development and deployment activities, hosting 150+ microservices.
-- Apache Cassandra architecture and operations lead, responsible for its implementation and continual operation within the ATO, managing 3 multi-datacenter clusters with 20+ nodes storing 50+ TB of data, including lead writer of full architectural review and secure operational procedures manual.
+- Lead C# developer of core routing engine, a bespoke design for data-driven nationwide call routing.
+- Lead C# developer of employee workforce automation framework, reducing ATO employee onboarding / offboarding from 4 hours to 15 minutes.
+- Lead Java developer of backend and frontend systems, facilitating enterprise-wide custom integrations into workforce management, contact centre agent desktop, voice / video recording, and voice biometric software.
+- Lead Python developer of workforce management automation software suite, facilitating the continuous backend management of the ATO's national personnel roster.
+- Lead TypeScript developer of Angular frontends, supporting enterprise-wide CMS, CMDB, and real-time monitoring.
+- Cloud architecture and engineering across Azure, AWS, and GCP, leveraging Azure DevOps for CI/CD pipelines, AWS EC2/S3/Lambda for scalable cloud-native deployments, and GCP Dialogflow/CCAI for AI-powered contact center solutions.
+- OpenShift / Kubernetes engineering and architecture lead, responsible for greenfields deployment and operation of a nationwide on-premise cluster supporting the Federal Government's ongoing software development and deployment activities.
+- Apache Cassandra architecture and operations lead, responsible for its implementation and continual operation within the ATO across multiple multi-datacenter clusters, including lead writer of full architectural review and secure operational procedures manual.
 
 ---
 
@@ -31,9 +31,9 @@ ShowPostNavLinks: false
 
 **MNA Studios** · Melbourne, AU · Jul. 2021 – Present
 
-- Lead Software Engineer, managing team of 4 Unreal C++, C#, and Python engineers, delivering game mechanics and systems for independent title "Hold Tight".
-- Lead Technical Artist, responsible for 3D asset integration into Unreal Engine 5.x, creating 200+ optimized game-ready assets in Houdini, Maya, Gaea, and Substance Designer/Painter.
-- Systems Engineer, integrating and maintaining remote development and build environments across AWS and Azure, reducing build times by 40% through distributed compilation infrastructure.
+- Lead Software Engineer, managing a small team of Unreal C++, C#, and Python engineers, delivering game mechanics and systems for independent title "Hold Tight".
+- Lead Technical Artist, responsible for 3D asset integration into Unreal Engine 5.x, creating optimized game-ready assets in Houdini, Maya, Gaea, and Substance Designer/Painter.
+- Systems Engineer, integrating and maintaining remote development and build environments across AWS and Azure through distributed compilation infrastructure.
 - Pipeline Engineer, developing a Python-based in-house custom pipeline facilitating integration of assets into UE.
 - Sound Designer and Composer, working in Wwise (previous experience with FMOD), REAPER, and implementing in Unreal Engine.
 
@@ -43,11 +43,11 @@ ShowPostNavLinks: false
 
 **Telstra Business Center Enterprise** *(formerly Pepperstorm)* · Melbourne, AU · Mar. 2015 – Dec. 2015
 
-- Cisco project lead engineer, responsible for routing, switching, unified communication, and security deployments, delivering 12 major projects valued at $2.5M+ total.
-- Served as an escalation point for 8 junior service desk analysts, reducing average ticket resolution time by 35% through mentoring and improved documentation standards.
-- Developed migration strategy and led the successful relocation of a global health organization's distributed data centers with zero unplanned downtime across 3 sites.
-- Conducted internal security audit, and led the successful migration from Cisco ASAs to Palo Alto security appliances for 15 client sites, improving threat detection by 45%.
-- Implemented new automation tools into production network to reduce ongoing maintenance costs by 30% and eliminate 20+ hours of manual configuration weekly.
+- Cisco project lead engineer, responsible for routing, switching, unified communication, and security deployments across major enterprise projects.
+- Served as an escalation point for junior service desk analysts through mentoring and improved documentation standards.
+- Developed migration strategy and led the successful relocation of a global health organization's distributed data centers with zero unplanned downtime.
+- Conducted internal security audit and led the successful migration from Cisco ASAs to Palo Alto security appliances across multiple client sites.
+- Implemented automation tools into production network to reduce ongoing maintenance overhead and eliminate manual configuration work.
 
 ---
 
@@ -55,11 +55,11 @@ ShowPostNavLinks: false
 
 **Broadreach Services** · Melbourne, AU · Jun. 2014 – Mar. 2015
 
-- Lead Cisco collaboration engineer for the company's Melbourne office, responsible for both ongoing support and project work, supporting 25+ enterprise clients.
-- Promoted to Second-in-Command of all internal infrastructure, ensuring 99.7% system availability and routine maintenance across the company's production environment.
-- Designed international video collaboration infrastructure for a leading engine manufacturer, connecting 12 global sites with 200+ HD video endpoints deployed internally and used in B2B.
-- Improved business process for end user Cisco endpoint provisioning in a leading global financial institution, reducing deployment time from 2 days to 4 hours per endpoint across 500+ devices.
-- Deployed national digital signage solution for a multinational entertainment production and distribution company, managing 150+ displays across 30 locations.
+- Lead Cisco collaboration engineer for the company's Melbourne office, responsible for both ongoing support and project work across enterprise clients.
+- Promoted to Second-in-Command of all internal infrastructure, responsible for routine maintenance and availability across the company's production environment.
+- Designed international video collaboration infrastructure for a leading engine manufacturer, connecting global sites with HD video endpoints deployed internally and used in B2B.
+- Improved business process for end user Cisco endpoint provisioning in a leading global financial institution, significantly reducing per-endpoint deployment time.
+- Deployed national digital signage solution for a multinational entertainment production and distribution company across multiple locations.
 
 ---
 
@@ -67,10 +67,10 @@ ShowPostNavLinks: false
 
 **Cisco Systems** · Sydney, AU · Jan. 2013 – Jul. 2013
 
-- Responsible for the continual operation and ongoing maintenance of Cisco data center with 150+ physical devices, earning extensive hands-on experience with Cisco Catalyst, Nexus, UCS, ASR, and CSR, in addition to an integrated VMware environment and RHEL/CentOS servers.
-- Deployed and troubleshot full recreations of enterprise customer environments by supporting a global team of over 400 senior network engineers, completing 80+ customer builds through hands-on deployment of bleeding-edge Cisco hardware and software.
-- Implemented new remote access hardware across data center to optimize testing workflow done by remote senior engineers, reducing setup time by 50%.
-- Improved turnaround time of customer builds by 25% through revamping internal documentation of data center policies and procedures.
+- Responsible for the continual operation and ongoing maintenance of Cisco's in-house data center, earning extensive hands-on experience with Cisco Catalyst, Nexus, UCS, ASR, and CSR, in addition to an integrated VMware environment and RHEL/CentOS servers.
+- Supported a global team of senior network engineers across customer environment builds, with hands-on deployment of bleeding-edge Cisco hardware and software.
+- Implemented new remote access hardware across data center to optimize testing workflow for remote senior engineers.
+- Improved turnaround time of customer builds through revamping internal documentation of data center policies and procedures.
 
 ---
 
@@ -154,8 +154,8 @@ Unreal Engine / Maya / Houdini
 
 **Royal Victorian Aero Club** · Melbourne, AU · Jan. 2025 – Sep. 2025
 
-- Achieved Private Pilot Licence (PPL) with 60+ flight hours including 15+ hours solo flight time.
-- Developed practical airmanship through solo and dual flights in Sling 2 and Piper Warrior II, completing 50+ successful take-offs and landings.
+- Achieved Private Pilot Licence (PPL) with 60+ flight hours, including solo cross-country navigation.
+- Developed practical airmanship in Sling 2 and Piper Warrior II.
 - Applying disciplined checklists, cockpit resource management (CRM), and real-time decision-making under pressure.
 
 ---
@@ -203,13 +203,13 @@ Melbourne, AU · Jan. 2022 – Present
 
 University Team Member · Melbourne, AU · Aug. 2013 – Dec. 2013
 
-- Competed in national cyber security challenge as part of a 5-person team selected by Monash University's IT faculty professors.
-- Gained practical and theoretical expertise in penetration testing, vulnerability assessment, and software security analysis across 10+ challenge scenarios.
+- Competed in national cyber security challenge as part of a university team selected by Monash University's IT faculty professors.
+- Gained practical and theoretical expertise in penetration testing, vulnerability assessment, and software security analysis.
 - Focused on UNIX-based systems, their exploitation frameworks, and common attack vectors including buffer overflows, SQL injection, and privilege escalation techniques.
 
 ### Dynamite Muay Thai Australia
 
 Core Fight Team Member · Melbourne, AU · Oct. 2018 – Jan. 2021
 
-- Member of core fight team at Australia's most prestigious Muay Thai gym, training 5–6 days weekly under world champion instructors.
+- Member of core fight team at Australia's most prestigious Muay Thai gym, under world champion instructors.
 - Developed discipline and composure under pressure through intensive technical training and competition.
