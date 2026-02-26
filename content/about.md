@@ -4,7 +4,7 @@ url: "/about/"
 hideMeta: true
 ---
 
-Software engineer and systems architect, based in Australia. I've spent the better part of a decade building large-scale platforms for the federal government. The kind where downtime isn't really an option and "we'll fix it later" is a career-limiting phrase. Voice biometrics, AI contact centres, Kubernetes infrastructure, workforce automation. Important, invisible, occasionally stressful.
+Software engineer and systems architect, based in Australia, with a deep specialisation in enterprise CX and contact centre platforms. I've spent the better part of a decade building large-scale systems for the federal government — the kind where downtime isn't really an option and "we'll fix it later" is a career-limiting phrase. Voice biometrics, AI-powered agent assistance, Kubernetes infrastructure, workforce automation. Important, invisible, occasionally stressful.
 
 I also make music. An album and several singles, electronic and ambient, self-produced. Available on all the streaming platforms that will pay you approximately nothing.
 
