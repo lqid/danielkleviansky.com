@@ -4,12 +4,15 @@ url: "/about/"
 hideMeta: true
 ---
 
-Software engineer and systems architect, based in Australia, with a deep specialisation in enterprise CX and contact centre platforms. I've spent the better part of a decade building large-scale systems for the federal government — the kind where downtime isn't really an option and "we'll fix it later" is a career-limiting phrase. Voice biometrics, AI-powered agent assistance, Kubernetes infrastructure, workforce automation. Important, invisible, occasionally stressful.
+I'm Daniel. I live in Melbourne, Australia. I'm a software engineer, and I've spent the better part of a decade building large-scale systems for the federal government. Contact centres, voice biometrics, AI, flux capacitors, all the things that nobody thinks about until they break. They don't break. That's the job.[^1]
 
-I also make music. An album and several singles, electronic and ambient, self-produced. Available on all the streaming platforms that will pay you approximately nothing.
+I make music. Electronic, ambient, self-produced. An album, a few singles, all on streaming platforms that pay me almost nothing. The cover art was made by real humans, because that matters to me.
 
-On the side, I'm building *Hold Tight*, an indie game on Unreal Engine 5 with a small team. Progress is steady. Spirits are high. We have a Slack.
+I'm also building a game called *Hold Tight* on Unreal Engine 5 with a small team. We have a Slack and everything.
 
-When I leave the house: bouldering, skateboarding, and flying small aircraft. I hold a private pilot licence, which is one of the more useful pieces of paper I own.
+Outside of screens, I boulder, I skate, and I fly small planes. I have a private pilot licence and I'm studying for my commercial. Whether that's ambition or a cry for help remains to be seen.[^2]
 
 Say hi at [daniel@kleviansky.com](mailto:daniel@kleviansky.com).
+
+[^1]: I mean, obviously they do, but that doesn't sound nearly as cool.
+[^2]: It's absolutely a cry for help.
