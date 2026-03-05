@@ -14,7 +14,7 @@ Writing more. You can follow along [on the writing page](/writing/).
 
 Got a Peloton. As a direct consequence, I'm doing yoga again. I'm choosing to interpret this as discipline rather than suffering.
 
-Obsessively researching Porsche 911s. Not buying one. Just researching.
+Obsessively researching Porsche 911s. ~~Not buying one.~~ Just researching.
 
 ---
 
