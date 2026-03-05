@@ -8,7 +8,7 @@ I'm Daniel. I live in Melbourne, Australia. I'm a software engineer, and I've sp
 
 I make music. Electronic, ambient, self-produced. An album, a few singles, all on streaming platforms that pay me almost nothing. The cover art was made by real humans, because that matters to me.
 
-I'm also building a game called *Hold Tight* on Unreal Engine 5 with a small team. We have a Slack and everything.
+I'm also building a game called *Hold Tight* on Unreal Engine 5.
 
 Outside of screens, I boulder, I skate, and I fly small planes. I have a private pilot licence and I'm studying for my commercial. Whether that's ambition or a cry for help remains to be seen.[^2]
 

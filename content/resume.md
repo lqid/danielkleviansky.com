@@ -31,7 +31,7 @@ ShowPostNavLinks: false
 
 **MNA Studios** · Melbourne, AU · Jul. 2021 – Present
 
-- Lead Software Engineer, managing a small team of Unreal C++, C#, and Python engineers, delivering game mechanics and systems for independent title "Hold Tight".
+- Lead Software Engineer, developing game mechanics and systems in Unreal C++, C#, and Python for independent title "Hold Tight".
 - Lead Technical Artist, responsible for 3D asset integration into Unreal Engine 5.x, creating optimized game-ready assets in Houdini, Maya, Gaea, and Substance Designer/Painter.
 - Systems Engineer, integrating and maintaining remote development and build environments across AWS and Azure through distributed compilation infrastructure.
 - Pipeline Engineer, developing a Python-based in-house custom pipeline facilitating integration of assets into UE.
