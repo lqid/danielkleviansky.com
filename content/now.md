@@ -16,6 +16,8 @@ Got a Peloton. As a direct consequence, I'm doing yoga again. I'm choosing to in
 
 Obsessively researching Porsche 911s. ~~Not buying one.~~ Just researching.
 
+Reading *Wool* by Hugh Howey.
+
 ---
 
 *This is a [/now page](https://nownownow.com/about). The concept is Derek Sivers'. The implementation is mine.*
