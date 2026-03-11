@@ -21,6 +21,6 @@ So here we are, with none of us taking pause. We're too preoccupied seeking our 
 
 So I beg of you, please, pick up that guitar. Sing that song. Be bad at it. I promise you, it's okay.
 
-Editor's note: While ensuring my usage of the word glean was correct, I googled "define glean", and the first search result was "Glean Technologies, Inc. is an American technology company specializing in enterprise-grade artificial intelligence and search capabilities." Irony, it seems, is not dead.
+*Editor's note: While ensuring my usage of the word glean was correct, I googled "define glean", and the first search result was "Glean Technologies, Inc. is an American technology company specializing in enterprise-grade artificial intelligence and search capabilities." Irony, it seems, is not dead.*
 
 [^1]: Point of fact, the Award for Worst Title goes to "Vice President of Platform Strategy and Product Value".
