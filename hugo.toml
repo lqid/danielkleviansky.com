@@ -1,9 +1,12 @@
 baseURL = "https://danielkleviansky.com/"
-languageCode = "en-au"
+locale = "en-au"
 title = "Daniel Kleviansky"
 theme = "PaperMod"
-paginate = 10
 enableRobotsTXT = true
+mainSections = ["writing"]
+
+[pagination]
+  pagerSize = 10
 
 [params]
   author = "Daniel Kleviansky"

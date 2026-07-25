@@ -31,7 +31,8 @@
     <div class="release">
       <a class="artwork-link" href="{{ .spotify }}" target="_blank" rel="noopener noreferrer">
         {{- if $img }}
-        <img src="{{ $img.RelPermalink }}" alt="{{ .title }}" loading="lazy">
+        {{- $small := $img.Fill "600x600 webp q85" }}
+        <img src="{{ $small.RelPermalink }}" alt="{{ .title }}" width="600" height="600" loading="lazy">
         {{- else }}
         <div class="artwork-placeholder"></div>
         {{- end }}

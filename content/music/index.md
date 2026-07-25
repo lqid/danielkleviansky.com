@@ -5,6 +5,8 @@ url: "/music/"
 description: "Original compositions and recordings by Daniel Kleviansky."
 hideMeta: true
 ShowReadingTime: false
+build:
+  publishResources: false
 ---
 
 Composer and independent recording artist working across orchestral, neoclassical, ambient, and cinematic genres.
