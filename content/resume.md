@@ -13,17 +13,18 @@ ShowPostNavLinks: false
 
 **Byte Information Technology** · Melbourne, AU · Dec. 2015 – Present
 
-- Software engineering and DevOps lead, responsible for enterprise-wide contact center integrations serving 18,000+ ATO contact centre agents.
-- Lead C# developer of voice biometric orchestration service, integrating Microsoft / Nuance Gatekeeper with internal backend services for the ATO.
-- Software architectural lead of Google Agent Assist integration, designing event-driven orchestration with a .NET backend and React frontend, enabling AI-powered real-time agent assistance across the enterprise contact center.
+- Software engineering and DevOps lead, responsible for enterprise-wide CX and contact centre integrations across an on-premise Genesys platform, serving 18,000+ ATO contact centre agents.
+- Lead C# developer of voice biometric orchestration service, integrating Microsoft / Nuance Gatekeeper with internal backend services for nationwide customer authentication.
+- Software architectural lead of Google Agent Assist integration, designing event-driven orchestration with a .NET backend and React frontend, enabling AI-powered real-time agent assistance across the enterprise contact centre.
 - Lead C# developer of core routing engine, a bespoke design for data-driven nationwide call routing.
 - Lead C# developer of employee workforce automation framework, reducing ATO employee onboarding / offboarding from 4 hours to 15 minutes.
 - Lead Java developer of backend and frontend systems, facilitating enterprise-wide custom integrations into workforce management, contact centre agent desktop, voice / video recording, and voice biometric software.
 - Lead Python developer of workforce management automation software suite, facilitating the continuous backend management of the ATO's national personnel roster.
 - Lead TypeScript developer of Angular frontends, supporting enterprise-wide CMS, CMDB, and real-time monitoring.
-- Cloud architecture and engineering across Azure, AWS, and GCP, leveraging Azure DevOps for CI/CD pipelines, AWS EC2/S3/Lambda for scalable cloud-native deployments, and GCP Dialogflow/CCAI for AI-powered contact center solutions.
+- Cloud architecture and engineering across Azure, AWS, and GCP, leveraging Azure DevOps for CI/CD pipelines, AWS EC2/S3/Lambda for scalable cloud-native deployments, and GCP Dialogflow/CCAI for AI-powered contact centre solutions.
+- Architect and engineer for the F5 BIG-IP and BIG-IQ estate, owning application delivery, traffic management, and TLS termination for enterprise-wide contact centre services.
 - OpenShift / Kubernetes engineering and architecture lead, responsible for greenfields deployment and operation of a nationwide on-premise cluster supporting the Federal Government's ongoing software development and deployment activities.
-- Apache Cassandra architecture and operations lead, responsible for its implementation and continual operation within the ATO across multiple multi-datacenter clusters, including lead writer of full architectural review and secure operational procedures manual.
+- Apache Cassandra architecture and operations lead, responsible for its implementation and continual operation within the ATO across multiple multi-datacentre clusters, including lead writer of full architectural review and secure operational procedures manual.
 
 ---
 
@@ -32,7 +33,7 @@ ShowPostNavLinks: false
 **MNA Studios** · Melbourne, AU · Jul. 2021 – Present
 
 - Lead Software Engineer, developing game mechanics and systems in Unreal C++, C#, and Python for independent title "Hold Tight".
-- Lead Technical Artist, responsible for 3D asset integration into Unreal Engine 5.x, creating optimized game-ready assets in Houdini, Maya, Gaea, and Substance Designer/Painter.
+- Lead Technical Artist, responsible for 3D asset integration into Unreal Engine 5.x, creating optimised game-ready assets in Houdini, Maya, Gaea, and Substance Designer/Painter.
 - Systems Engineer, integrating and maintaining remote development and build environments across AWS and Azure through distributed compilation infrastructure.
 - Pipeline Engineer, developing a Python-based in-house custom pipeline facilitating integration of assets into UE.
 - Sound Designer and Composer, working in Wwise (previous experience with FMOD), REAPER, and implementing in Unreal Engine.
@@ -41,11 +42,11 @@ ShowPostNavLinks: false
 
 ### Systems and Network Engineer
 
-**Telstra Business Center Enterprise** *(formerly Pepperstorm)* · Melbourne, AU · Mar. 2015 – Dec. 2015
+**Telstra Business Centre Enterprise** *(formerly Pepperstorm)* · Melbourne, AU · Mar. 2015 – Dec. 2015
 
 - Cisco project lead engineer, responsible for routing, switching, unified communication, and security deployments across major enterprise projects.
 - Served as an escalation point for junior service desk analysts through mentoring and improved documentation standards.
-- Developed migration strategy and led the successful relocation of a global health organization's distributed data centers with zero unplanned downtime.
+- Developed migration strategy and led the successful relocation of a global health organisation's distributed data centres with zero unplanned downtime.
 - Conducted internal security audit and led the successful migration from Cisco ASAs to Palo Alto security appliances across multiple client sites.
 - Implemented automation tools into production network to reduce ongoing maintenance overhead and eliminate manual configuration work.
 
@@ -67,10 +68,10 @@ ShowPostNavLinks: false
 
 **Cisco Systems** · Sydney, AU · Jan. 2013 – Jul. 2013
 
-- Responsible for the continual operation and ongoing maintenance of Cisco's in-house data center, earning extensive hands-on experience with Cisco Catalyst, Nexus, UCS, ASR, and CSR, in addition to an integrated VMware environment and RHEL/CentOS servers.
+- Responsible for the continual operation and ongoing maintenance of Cisco's in-house data centre, earning extensive hands-on experience with Cisco Catalyst, Nexus, UCS, ASR, and CSR, in addition to an integrated VMware environment and RHEL/CentOS servers.
 - Supported a global team of senior network engineers across customer environment builds, with hands-on deployment of bleeding-edge Cisco hardware and software.
-- Implemented new remote access hardware across data center to optimize testing workflow for remote senior engineers.
-- Improved turnaround time of customer builds through revamping internal documentation of data center policies and procedures.
+- Implemented new remote access hardware across data centre to optimise testing workflow for remote senior engineers.
+- Improved turnaround time of customer builds through revamping internal documentation of data centre policies and procedures.
 
 ---
 
@@ -80,9 +81,9 @@ ShowPostNavLinks: false
 
 C# / C++ / Java / Python / TypeScript
 
-- **C#**, delivering applications and services that required a deep level of customization for government agencies and large enterprises to conform to both technical and regulatory requirements.
+- **C#**, delivering applications and services that required a deep level of customisation for government agencies and large enterprises to conform to both technical and regulatory requirements.
 - **C++**, lead developer for ATO contact centre routing engine, and for a UE5 production, managing a small team of software engineers.
-- **Java**, lead engineer for Cisco/Genesys integrated SoftAgent application; a Java-based multi-vendor contact center agent solution, designed for use by government agencies during catastrophic circumstances, when experiencing multiple system failures.
+- **Java**, lead engineer for Cisco/Genesys integrated SoftAgent application; a Java-based multi-vendor contact centre agent solution, designed for use by government agencies during catastrophic circumstances, when experiencing multiple system failures.
 - **Python**, lead developer of federal government's CI/CD pipeline, as well as lead developer of their employee onboarding software suite.
 - **TypeScript**, lead engineer for Genesys Omnichannel solution; having engineered both TypeScript-based back-end routing, and front-end web design for a seamless contact centre and customer experience solution.
 
@@ -90,10 +91,10 @@ C# / C++ / Java / Python / TypeScript
 
 Networking / Distributed Computing / Voice & Video
 
-- **Azure, AWS, and GCP**, demonstrated across enterprise cloud-native deployments, CI/CD pipelines via Azure DevOps, scalable compute and storage with AWS EC2/S3/Lambda, and AI-powered contact center solutions with GCP Dialogflow and CCAI.
+- **Azure, AWS, and GCP**, demonstrated across enterprise cloud-native deployments, CI/CD pipelines via Azure DevOps, scalable compute and storage with AWS EC2/S3/Lambda, and AI-powered contact centre solutions with GCP Dialogflow and CCAI.
 - **Docker, Kubernetes, and OpenShift**, demonstrated as lead developer and DevOps engineer as part of the federal government's managed services and cloud-deployed architecture.
 - **Cisco routing and switching**, demonstrated by a wealth of certifications, a successful internship in Cisco's in-house Advanced Services team, and a long history having worked on dozens of enterprise clients with massive scale infrastructure.
-- **Cisco unified communications (voice & video)**, and Genesys contact centre technologies, demonstrated by dozens of successfully delivered projects, including those that required a deep level of customization for government agencies and large enterprises, while working as either a project engineer, technical lead, or architectural lead.
+- **Cisco unified communications (voice & video)**, and Genesys contact centre technologies, demonstrated by dozens of successfully delivered projects, including those that required a deep level of customisation for government agencies and large enterprises, while working as either a project engineer, technical lead, or architectural lead.
 - **Microsoft Server and Red Hat Enterprise Linux**, demonstrated by years of experience developing with these platforms, and designing the architecture of multiple distributed applications designed to run at enterprise-level scales.
 - **RDBMS**, including **Microsoft SQL** and **PostgreSQL**, demonstrated by years of development experience utilising both solutions, including a proprietary SIP load-testing application with requirements for long-term data analysis and historical reporting.
 - **Apache Cassandra**, an open-source, Java-based, distributed, NoSQL database management system, demonstrated by role as lead operational architect and engineer, and certification.
@@ -104,7 +105,7 @@ Networking / Distributed Computing / Voice & Video
 Unreal Engine / Maya / Houdini
 
 - **Unreal Engine 5**, demonstrated by role as technical artist in development of independent game, "Hold Tight".
-- **Autodesk Maya**, demonstrated by role as 3D modeler in development of large-scale, in-game assets.
+- **Autodesk Maya**, demonstrated by role as 3D modeller in development of large-scale, in-game assets.
 - **Houdini**, demonstrated by procedural generation of large-scale landscape, and modular building and level design.
 - **Gaea**, demonstrated by procedural generation of large-scale terrains, landscapes and biomes.
 - Over a decade of experience in various version control architectures, including but not limited to Git (LFS), Perforce, and TFVC.
@@ -150,7 +151,7 @@ Unreal Engine / Maya / Houdini
 
 ## Aviation Training
 
-### Private Pilot License (PPL)
+### Private Pilot Licence (PPL)
 
 **Royal Victorian Aero Club** · Melbourne, AU · Jan. 2025 – Sep. 2025
 
