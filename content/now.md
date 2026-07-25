@@ -4,7 +4,7 @@ url: "/now/"
 hideMeta: true
 ---
 
-*Updated March 2026, Melbourne.*
+*Updated July 2026, Melbourne.*
 
 ---
 
@@ -14,9 +14,9 @@ Writing more. You can follow along [on the writing page](/writing/).
 
 Got a Peloton. As a direct consequence, I'm doing yoga again. I'm choosing to interpret this as discipline rather than suffering.
 
-Obsessively researching Porsche 911s. ~~Not buying one.~~ Just researching.
+Bought an Audi RS5. The 911 research is over, and ~~not buying one~~ turned out to be technically true.
 
-Reading *Wool* by Hugh Howey.
+Reading *Le Petit Prince* by Antoine de Saint-Exupéry. Written by a pilot, so I'm logging it as theory.
 
 ---
 
