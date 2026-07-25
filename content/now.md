@@ -12,6 +12,8 @@ Studying aerodynamics for my Commercial Pilot Licence. It turns out flying a pla
 
 Writing more. You can follow along [on the writing page](/writing/).
 
+Built a council of AI agents that argue about my game's design so I don't have to. Yes, I know — [bots talking to bots](/writing/bots-talking-to-bots/). These ones work for me, and I built the plumbing myself.
+
 Got a Peloton. As a direct consequence, I'm doing yoga again. I'm choosing to interpret this as discipline rather than suffering.
 
 Bought an Audi RS5. The 911 research is over, and ~~not buying one~~ turned out to be technically true.
