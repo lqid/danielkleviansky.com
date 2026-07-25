@@ -68,6 +68,10 @@
 
 /* ── Header label ─────────────────────────────────────────── */
 
+.logo a {
+  gap: 0;
+}
+
 .label-root {
   font-weight: 700;
   color: var(--primary);
