@@ -9,7 +9,7 @@ ShowPostNavLinks: false
 
 ## Experience
 
-### Platform Engineering Lead
+### Principal Engineer
 
 **Byte** · Contract · Melbourne, AU (Remote) · Mar. 2023 – Present
 

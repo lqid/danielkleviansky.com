@@ -29,7 +29,7 @@ mainSections = ["writing"]
   [params.profileMode]
     enabled = true
     title = "Daniel Kleviansky"
-    subtitle = "Platform engineering lead, contact centre and voice platforms. Aggressively multidisciplinary."
+    subtitle = "Principal engineer, contact centre and voice platforms. Aggressively multidisciplinary."
     imageUrl = "/profile.jpg"
     imageWidth = 120
     imageHeight = 120
