@@ -4,7 +4,7 @@ url: "/about/"
 hideMeta: true
 ---
 
-I'm Daniel. I live in Melbourne, Australia. I'm a software engineer, and I've spent the better part of a decade building large-scale systems for the federal government. Contact centres, voice biometrics, AI, flux capacitors, all the things that nobody thinks about until they break. They don't break. That's the job.[^1]
+I'm Daniel. I live in Melbourne, Australia. I've spent the better part of a decade building and running large-scale systems for the federal government. Contact centres, voice biometrics, AI, flux capacitors, all the things that nobody thinks about until they break. They don't break. That's the job.[^1]
 
 I make music. Electronic, ambient, self-produced. An album, a few singles, all on streaming platforms that pay me almost nothing. The cover art was made by real humans, because that matters to me.
 
