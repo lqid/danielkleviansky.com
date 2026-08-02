@@ -26,9 +26,10 @@ ShowPostNavLinks: false
 
 ### Senior Software and Systems Engineer
 
-**Rise.CX** · Contract · Melbourne, AU · Jul. 2020 – Mar. 2023
+**Rise.CX** *(acquired by Byte Information Technology, March 2023)* · Contract · Melbourne, AU · Jul. 2020 – Mar. 2023
 
 - Full-stack software engineer across Java, Python, C# / .NET, Angular, and C++ on the ATO contact centre estate.
+- F5 BIG-IP and BIG-IQ infrastructure and development lead for the contact centre estate.
 - Lead C# developer of the core routing engine, a bespoke design for data-driven nationwide call routing.
 - Lead Python developer of the workforce management automation software suite, facilitating the continuous backend management of the ATO's national personnel roster.
 - Lead TypeScript developer of Angular frontends, supporting enterprise-wide CMS, CMDB, and real-time monitoring.
