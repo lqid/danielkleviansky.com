@@ -27,10 +27,10 @@ git submodule update --init --recursive
 ## Adding a post
 
 ```bash
-hugo new posts/post-title.md
-# Edit content/posts/post-title.md
+hugo new writing/post-title.md
+# Edit content/writing/post-title.md
 # Set draft: false when ready
-git add . && git commit -m "Add post: title" && git push
+git add . && git commit -m "new post: title" && git push
 ```
 
 ## Key files
