@@ -163,13 +163,13 @@ Unreal Engine / Maya / Houdini
 
 ### Contact Centre & Voice
 
+- 2015 — Cisco Certified Networking Associate (CCNA) – Collaboration
 - 2026 — Genesys Cloud CX Certified Professional
 
 ### Data Networking
 
 - 2012 — Cisco Certified Networking Professional (CCNP) – Routing & Switching
 - 2015 — Cisco Certified Design Professional (CCDP)
-- 2015 — Cisco Certified Networking Associate (CCNA) – Collaboration
 
 ---
 
