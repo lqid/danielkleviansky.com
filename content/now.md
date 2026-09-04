@@ -4,13 +4,13 @@ url: "/now/"
 hideMeta: true
 ---
 
-*Updated July 2026, Melbourne.*
+*Updated September 2026, Melbourne.*
 
 ---
 
-Studying aerodynamics for my Commercial Pilot Licence. It turns out flying a plane and understanding why the plane flies are two entirely separate skills. I'm working on the second one now.
+Preparing for my first live show. I told everyone to [pick up that guitar](/writing/pick-up-that-guitar/) and be bad at it. Apparently that applies to me too.
 
-Writing more. You can follow along [on the writing page](/writing/).
+Writing ~~more~~ less. The last post was in March. Follow along [on the writing page](/writing/), at whatever pace this turns out to be.
 
 Built a council of AI agents that argue about my game's design so I don't have to. Yes, I know — [bots talking to bots](/writing/bots-talking-to-bots/). These ones work for me, and I built the plumbing myself.
 
@@ -18,7 +18,7 @@ Got a Peloton. As a direct consequence, I'm doing yoga again. I'm choosing to in
 
 Bought an Audi RS5. The 911 research is over, and ~~not buying one~~ turned out to be technically true.
 
-Reading *Le Petit Prince* by Antoine de Saint-Exupéry. Written by a pilot, so I'm logging it as theory.
+Reading *Dune Messiah* by Frank Herbert, in which it turns out winning was the easy part.
 
 ---
 
