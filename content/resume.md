@@ -104,7 +104,7 @@ Networking / Distributed Computing / Voice & Video
 - **Azure, AWS, and GCP**, demonstrated across enterprise cloud-native deployments, CI/CD pipelines via Azure DevOps, scalable compute and storage with AWS EC2/S3/Lambda, and AI-powered contact centre solutions with GCP Dialogflow and CCAI.
 - **Docker, Kubernetes, and OpenShift**, demonstrated as lead developer and DevOps engineer as part of the federal government's managed services and cloud-deployed architecture.
 - **Cisco routing and switching**, demonstrated by a wealth of certifications, a successful internship in Cisco's in-house Advanced Services team, and a long history having worked on dozens of enterprise clients with massive scale infrastructure.
-- **Cisco unified communications (voice & video)**, and Genesys contact centre technologies, demonstrated by dozens of successfully delivered projects, including those that required a deep level of customisation for government agencies and large enterprises, while working as either a project engineer, technical lead, or architectural lead.
+- **Cisco unified communications (voice & video)**, and Genesys contact centre technologies, demonstrated by Genesys Cloud CX certification and dozens of successfully delivered projects, including those that required a deep level of customisation for government agencies and large enterprises, while working as either a project engineer, technical lead, or architectural lead.
 - **Microsoft Server and Red Hat Enterprise Linux**, demonstrated by years of experience developing with these platforms, and designing the architecture of multiple distributed applications designed to run at enterprise-level scales.
 - **RDBMS**, including **Microsoft SQL** and **PostgreSQL**, demonstrated by years of development experience utilising both solutions, including a proprietary SIP load-testing application with requirements for long-term data analysis and historical reporting.
 - **Apache Cassandra**, an open-source, Java-based, distributed, NoSQL database management system, demonstrated by role as lead operational architect and engineer, and certification.
@@ -160,6 +160,10 @@ Unreal Engine / Maya / Houdini
 ### Architecture
 
 - 2016 — Apache Cassandra Certified Architect
+
+### Contact Centre & Voice
+
+- 2026 — Genesys Cloud CX Certified Professional
 
 ### Data Networking
 
