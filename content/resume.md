@@ -13,7 +13,7 @@ ShowPostNavLinks: false
 
 **Byte** · Contract · Melbourne, AU (Remote) · Mar. 2023 – Present
 
-- Platform engineering lead for a large-scale contact centre operation delivered to a federal government agency: an on-premise Genesys environment supporting 18,000+ ATO agents, currently engaged on contact centre platforms serving Optus and the ATO.
+- Platform engineering lead for a large-scale contact centre operation delivered to a federal government agency: an on-premise Genesys environment supporting 18,000+ ATO agents. Currently engaged on contact centre platforms serving Optus and the ATO.
 - Software engineering lead for the platform's custom integrations, owning engineering practice and CI/CD across .NET, Java, Python, and TypeScript deliverables.
 - Platform owner of the F5 BIG-IP and BIG-IQ estate, accountable for application delivery, traffic management, and TLS termination across enterprise contact centre services.
 - Software architectural lead of the Google Agent Assist integration, designing event-driven orchestration with a .NET backend and React frontend, bringing AI-powered real-time agent assistance into the enterprise contact centre.
@@ -115,7 +115,7 @@ Networking / Distributed Computing / Voice & Video
 C# / C++ / Java / Python / TypeScript
 
 - **C#**, delivering applications and services that required a deep level of customisation for government agencies and large enterprises to conform to both technical and regulatory requirements.
-- **C++**, lead developer for ATO contact centre routing engine, and for a UE5 production, managing a small team of software engineers.
+- **C++**, lead developer of *Hold Tight*, an independent Unreal Engine 5 production, alongside C++ integration work across the ATO contact centre estate.
 - **Java**, lead engineer for Cisco/Genesys integrated SoftAgent application; a Java-based multi-vendor contact centre agent solution, designed for use by government agencies during catastrophic circumstances, when experiencing multiple system failures.
 - **Python**, lead developer of federal government's CI/CD pipeline, as well as lead developer of their employee onboarding software suite.
 - **TypeScript**, lead engineer for Genesys Omnichannel solution; having engineered both TypeScript-based back-end routing, and front-end web design for a seamless contact centre and customer experience solution.
@@ -204,7 +204,7 @@ Unreal Engine / Maya / Houdini
 **Independent Artist** · Melbourne, AU · Jan. 2020 – Present
 
 - Debut LP **At Once, Grace.** (Nov. 2020) — a narrative arc exploring themes of despair, acceptance, and triumph across a full-length orchestral record.
-- Singles and EPs: **Here. Now.**, **At Motion**, **Wavering Confidence**, **Wonder Wander** (2020); **Jacob**, **O Beauty, Where Art Thou?**, **Epoché** (2022).
+- Singles: **Here. Now.**, **At Motion**, **Wavering Confidence** (2020); **Jacob**, **O Beauty, Where Art Thou?**, **Epoché** (2022).
 - **At Motion** selected for Spotify's editorial playlist, **Cinematic Composers Discoveries**.
 - **Epoché** described as "a meditation of light and love, a reminder that we are here but for a moment."
 
