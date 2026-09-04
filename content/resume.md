@@ -49,7 +49,7 @@ ShowPostNavLinks: false
 
 ### Director
 
-**MNA Studios** · Self-employed · Melbourne, AU · May 2018 – Present
+**Mono No Aware Studios** · Self-employed · Melbourne, AU · May 2018 – Present
 
 - Lead Software Engineer, developing game mechanics and systems in Unreal C++, C#, and Python for independent title "Hold Tight".
 - Lead Technical Artist, responsible for 3D asset integration into Unreal Engine 5.x, creating optimised game-ready assets in Houdini, Maya, Gaea, and Substance Designer/Painter.
